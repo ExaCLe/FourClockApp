@@ -1,5 +1,5 @@
 position;foreground (r,g,b);background (r,g,b)
-top-right; (255, 255, 0); (0, 0, 255)
+top-right; (0, 0, 0); (255, 255, 255)
 top-left; (0, 255, 255); (255, 0, 0)
 bottom-right; (255, 0, 255); (0, 255, 0)
 bottom-left; (0, 0, 0); (255, 255, 255)
